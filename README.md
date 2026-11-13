@@ -24,6 +24,32 @@ I worked as a Product Analyst, focusing on product records, product-name consist
 - Document identified discrepancies for further review.
 
 
+### Dataset Description
+
+The dataset contains pharmaceutical sales records for September 2026 across five branches of Medicare Pharma Ltd.
+It consists of  162 records and 9 columns.
+
+
+- Sale_ID : Unique identifier for each sales record
+
+- Sale_Date : Date the sale occurred
+
+- Branch : Location where the sale was recorded
+
+- Product_Name : Name of the pharmaceutical product sold
+
+- Product_Category : Category assigned to the product
+
+- Quantity : Number of units sold
+
+- Unit_Price : Price per unit of the product
+
+- Customer_Type : Classification of the customer
+
+- Payment_Method : Method used to complete the transaction
+
+
+
 ### Project Approach
 
 The product assessment followed these steps:
