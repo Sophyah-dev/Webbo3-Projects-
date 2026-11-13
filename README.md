@@ -26,6 +26,44 @@ I worked as a Product Analyst, focusing on product records, product-name consist
 
 
 
+### Key Observations
+
+The product assessment revealed the following data quality issues:
+
+- Spelling inconsistencies in product names.
+
+- Variations in product naming conventions.
+
+- Inconsistent capitalization of product 
+categories.
+
+- Missing product-category entries.
+
+- Inconsistent category naming conventions.
+
+
+### Data Integrity and Limitations
+
+The original dataset was not modified during my assessment. All identified inconsistencies and observations were documented separately for review.
+The assessment was limited to product-related records and did not constitute a complete cleaning.
+
+
+### Tools Used
+
+Microsoft Excel
+
+
+### Skills Demonstrated
+
+- Data Inspection
+- Data Quality Assessment
+- Data Validation
+- Data Standardisation Assessment
+- Microsoft Excel
+- Documentation and Reporting
+- Attention to Detail
+
+
 
 
 
