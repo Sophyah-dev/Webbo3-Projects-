@@ -2,7 +2,7 @@
 
 # Project Documentation 
 
-## Project Topic: Medicare Pharma Store September 2026 sales Data Analysis 
+## Project Topic: Medicare Pharma Store sales Data Cleaning 
 
 ### Project Overview
 
