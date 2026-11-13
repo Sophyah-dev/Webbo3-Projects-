@@ -24,6 +24,25 @@ I worked as a Product Analyst, focusing on product records, product-name consist
 - Document identified discrepancies for further review.
 
 
+### Project Approach
+
+The product assessment followed these steps:
+
+Step 1: Product Identification : 
+Examined the dataset to identify unique product names and product categories.
+
+Step 2: Product Name Assessment : 
+Reviewed product names to identify spelling errors, variations and inconsistencies.
+
+Step 3: Product Category Assessment : 
+Examined product-category entries to identify missing values, inconsistent capitalization and variations in category naming.
+
+Step 4: Issue Documentation : 
+Recorded identified discrepancies alongside their corresponding Sale IDs to maintain traceability.
+
+Step 5: Observation Reporting : 
+Documented the identified issues to support the team's overall data quality assessment.
+
 
 
 ### Key Observations
